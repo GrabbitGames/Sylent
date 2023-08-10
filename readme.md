@@ -46,7 +46,7 @@ If you get a "Not Found" error, it most likely means the bare server cannot be r
 
 [https://vexxed.vercel.app](https://vexxed.vercel.app)
 
-[https://jinjinjojo.github.io](https://jinjinjojo.github.io)
+[https://vexxxed.github.io](https://vexxxed.github.io) (3 X's)
 
 [https://vexxed.glitch.me](https://vexxed.glitch.me)
 
