@@ -40,7 +40,7 @@ The development of Vexxed Browser has been made possible through the contributio
 
 When you search through our browser for the first time in a new domain, you might get a 404 error. Simply refresh the vexxed browser's tab or the webpage, and the next time you search it should go away.
 
-If it is not the first time searching and you see "Not Found", it most likely means the bare server cannot be reached. In this case, change the bare server using the instructions listed above.
+If it is not the first time searching and you see "Not Found" or "TypeError: Failed to fetch", it most likely means the **bare server** cannot be reached. In this case, change the bare server using the instructions listed above.
 
 ---
 
