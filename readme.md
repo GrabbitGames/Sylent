@@ -4,7 +4,7 @@ Vexxed Browser offers a UI reminiscent to Google's Chrome Browser, but is specif
 
 &nbsp;  
 
-![Alt Text](https://github.com/jinjinjojo/jinjinjojo.github.io/blob/main/standard.gif?raw=true)
+![Alt Text](https://github.com/vexxxed/vexxed-browser/blob/main/standard.gif?raw=true)
 
 ## Customization
 
