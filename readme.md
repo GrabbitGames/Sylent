@@ -26,15 +26,15 @@ Vexxed Browser is compatible with any static website hosting service, including 
 
 The development of Vexxed Browser has been made possible through the contributions of the following sources:
 
-- **Ultraviolet Proxy**: [https://github.com/titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
+- **Proxy**: [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
 
-- **Making Ultraviolet Static**: [TIW-UV-Static](https://github.com/TheTIW/UV-Static).
+- **Static Ultraviolet**: [UV-Static](https://github.com/TheTIW/UV-Static).
 
-- **Browser Functionality**: [Rammerhead](https://github.com/binary-person/rammerhead).
+- **Browser Functionality**: [rammerhead](https://github.com/binary-person/rammerhead).
 
-- **Bare Server by TompHTTP**: [Bare-server-node](https://github.com/tomphttp/bare-server-node)
+- **Bare Server by TompHTTP**: [bare-server-node](https://github.com/tomphttp/bare-server-node)
 
-- **Google Clone**: [Google-search-clone](https://github.com/naemazam/Google-search-clone).
+- **Google Clone**: [google-search-clone](https://github.com/naemazam/Google-search-clone).
 
 ## Error Info
 
@@ -44,7 +44,7 @@ If it is not the first time searching and you see "Not Found" or "TypeError: Fai
 
 ---
 
-### Official Active Links As Of 8/9/2023
+### Official Links
 
 [https://vexxed.vercel.app](https://vexxed.vercel.app)
 
@@ -57,3 +57,5 @@ If it is not the first time searching and you see "Not Found" or "TypeError: Fai
 [https://vexxed.static.app](https://vexxed.static.app)
 
 [https://vexxed.netlify.app](https://vexxed.netlify.app)
+
+[https://vexxed-browser.web.app](https://vexxed-browser.web.app)
