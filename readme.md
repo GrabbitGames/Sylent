@@ -54,8 +54,4 @@ If it is not the first time searching and you see "Not Found" or "TypeError: Fai
 
 [https://vexxed.pages.dev](https://vexxed.pages.dev)
 
-[https://vexxed.static.app](https://vexxed.static.app)
-
-[https://vexxed.netlify.app](https://vexxed.netlify.app)
-
 [https://vexxed-browser.web.app](https://vexxed-browser.web.app)
