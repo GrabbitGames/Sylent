@@ -50,8 +50,6 @@ If it is not the first time searching and you see "Not Found" or "TypeError: Fai
 
 [https://vexxxed.github.io](https://vexxxed.github.io) (3 X's)
 
-[https://vexxed.glitch.me](https://vexxed.glitch.me)
-
 [https://vexxed.pages.dev](https://vexxed.pages.dev)
 
 [https://vexxed-browser.web.app](https://vexxed-browser.web.app)
