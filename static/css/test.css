@@ -11,6 +11,10 @@
     Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
   vertical-align: baseline;
 }
+.addressbar .addressbar-urlbar {
+  background-color: transparent;
+  color: #f05800; /* ember orange text */
+}
 
 /* Address bar */
 .addressbar {
