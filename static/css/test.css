@@ -104,6 +104,16 @@
   margin: 12px 0;
 }
 
+.addressbar-menu input {
+  background-color: transparent;
+  border: none;
+  font-size: 16px;
+  height: 30px;
+  outline: none;
+  width: 100%;
+}
+
+
 /* New tab page */
 .rhnewtab {
   text-align: center;
