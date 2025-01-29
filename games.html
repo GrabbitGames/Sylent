@@ -409,12 +409,30 @@
     </div>
 
     <!-- Filter Buttons -->
-    <div class="filter-buttons">
+    <div class="glow-button">
       <button onclick="filterGames('all')">All Games</button>
       <button onclick="filterGames('#Action')">#Action</button>
       <button onclick="filterGames('#Adventure')">#Adventure</button>
       <button onclick="filterGames('#Puzzle')">#Puzzle</button>
     </div>
+    <br>
+<button class="glow-button" id="randomLinkButton">Go to Random Link</button>
+
+    <script>
+        const links = [
+            'https://www.google.com',
+            'https://www.reddit.com',
+            'https://www.youtube.com',
+            'https://www.wikipedia.org',
+            'https://www.twitter.com'
+        ];
+
+        document.getElementById('randomLinkButton').addEventListener('click', function() {
+            const randomLink = links[Math.floor(Math.random() * links.length)];
+            window.location.href = randomLink;
+        });
+    </script>
+
 
     <!-- Games Container -->
     <div class="games-container"></div>
