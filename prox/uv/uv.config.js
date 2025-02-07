@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/prox/vexxed-browser/',
-    bare: 'https://tomp.app',
+    bare: 'https://vercel-bare-server-tau.vercel.app/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/prox/uv/uv.handler.js',
